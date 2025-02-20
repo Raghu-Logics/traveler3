@@ -568,11 +568,11 @@ display: none;
 
 /* ------------------------------------------------- */
 /*start pakage midia*/
-@media(max-width: 1536px){
+@media(max-width: 1600px){
   .firstmen{
     display:none;
   }
-  .secondmenu{
+  .secondmenu {
     display: none;
   }
 }
