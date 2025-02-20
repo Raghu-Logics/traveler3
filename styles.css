@@ -323,9 +323,6 @@ display: none;
   .firstmen{
     display:none;
   }
-  .secondmenu1{
-    display: none;
-  }
 }
 
 @media(max-width: 1199px){
@@ -572,8 +569,11 @@ display: none;
 /* ------------------------------------------------- */
 /*start pakage midia*/
 @media(max-width: 1536px){
-  .firstmen{
+  .firstmen1{
     display:none;
+  }
+  .secondmenu{
+    display: none;
   }
 }
 
