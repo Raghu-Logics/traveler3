@@ -569,7 +569,7 @@ display: none;
 /* ------------------------------------------------- */
 /*start pakage midia*/
 @media(max-width: 1536px){
-  .firstmen1{
+  .firstmen{
     display:none;
   }
   .secondmenu{
