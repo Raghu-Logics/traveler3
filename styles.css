@@ -568,11 +568,11 @@ display: none;
 
 /* ------------------------------------------------- */
 /*start pakage midia*/
-@media(max-width: 1600px){
-  .firstmen{
-    display:none;
+@media(max-width: 1536px){
+  .firstmen {
+    display: none;
   }
-  .secondmenu {
+  .secondmenu{
     display: none;
   }
 }
@@ -624,6 +624,11 @@ display: none;
 @media (max-width: 360px) {
   .gallery-package .gallery {
       grid-template-columns: repeat(2, 1fr); /* Two images per row */
+  }
+  .firstmen {
+    display: block;
+    display: flex;
+    
   }
   .footover{
     margin-right: 80px ;
